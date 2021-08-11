@@ -1,0 +1,34 @@
+---
+title: "Camille Alcasid"
+profileimage: "https://avatars.githubusercontent.com/u/5324888?v=4"
+coverimage: "https://avatars.githubusercontent.com/u/5324888?v=4"
+tags: []
+twitter: "happyAlcasid"
+github: "ww-camille"
+twitch: "just username"
+instagram: "just username"
+blogsite: ""
+linkedin: "camille297"
+comments: false
+summary: "I'm a tech startup co-founder of Crewvie.com and ADME.ai specializing that is hands-on on developing products using ASPNETCORE."
+pronouns: "she/her"
+# draft: true
+location: "Los Angeles, CA"
+---
+
+
+### About me
+##### **HEADLINE DATA**
+
+# REMOVE THIS LINE The above is called front matter - please delete the irrelevent info and remove the 'draft: true'
+
+# ADD TAGS TO THE TAG ARRAY ABOVE - TAGS ARE FOUND HERE: https://github.com/Layla-P/WomenOfDotNet/blob/main/content/profiles/_index.md  - IF YOU WANT TO ADD A TAG, MAKE A pr TO THIS FILE :-)
+
+I began building websites in CGI/Perl in 1995 and embraced Classic ASP in the late 90's to develop a proprietary CMS application for various TV and enterprise websites.
+
+Along with my career-long coding & business partner, we purposely skipped DOTNET through the 90's and 00's -- until MVC came into the picture in 2009. We migrated to ASPNETCORE in the last 4 years and created WonderWomenCoders.com to teach women in our area.
+
+
+### Contact
+
+My [DM on Twitter](https://twitter.com/happyAlcasid) is open.
